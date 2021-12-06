@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "141763688106",
+    "project_id": "flutterchess-19b9e",
+    "storage_bucket": "flutterchess-19b9e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141763688106:android:722a53e585a9048ccc02d3",
+        "android_client_info": {
+          "package_name": "com.flutterchess.flutterchess"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141763688106-8ujea23dp0dr5c1h1odt2f7noh3uh12j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABsoUhbsENxshc_SIpgEI_ThB75OgVxpk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "141763688106-8ujea23dp0dr5c1h1odt2f7noh3uh12j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
